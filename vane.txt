@@ -1,6 +1,3 @@
 hola! como estas?
-<<<<<<< HEAD
 bien y tu?
-=======
 tengo sueno
->>>>>>> e25cbc739ede7d61bae11e112539dc5bb8c5785d
